@@ -24,4 +24,7 @@ boolean resp = false;
 
     }while(100 != cprimo);
 
-    }
+  
+  }
+
+//sout"en eta parte del codigo se calculan los numeros primos y son visualizados en pantalla" 
